@@ -1,2 +1,2 @@
-# project-of-to-do-web-app
-to do list using html, CSS &amp; JS
+# Todo App
+A simple Todo built using React.
